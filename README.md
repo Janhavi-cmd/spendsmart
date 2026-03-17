@@ -2,8 +2,8 @@
 
 > Production-grade personal finance tracker with Google Gemini AI insights, interactive analytics, and a modern dark/light theme.
 
-**🔗 Live Demo:** [my-expense-tracker-7zb4.onrender.com/login](https://my-expense-tracker-7zb4.onrender.com/login)  
-**📂 GitHub:** [github.com/Janhavi-cmd/my-expense-tracker](https://github.com/Janhavi-cmd/my-expense-tracker)
+**🔗 Live Demo:** [expense-tracker-fowr.onrender.com/login](https://expense-tracker-fowr.onrender.com/login)  
+**📂 GitHub:** [github.com/Janhavi-cmd/SpendSmart](https://github.com/Janhavi-cmd/SpendSmart)
 
 ---
 
